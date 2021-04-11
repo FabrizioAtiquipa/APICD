@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "json-server --watch ./db/db.json --host 192.168.0.8"
+    "server": "json-server --watch ./db/db.json --host 192.168.0.8" 
   },
+  //192.168.0.8----> CAMBIAR POR SU IP
   "keywords": [],
   "author": "",
   "license": "ISC",
